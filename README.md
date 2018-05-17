@@ -19,13 +19,17 @@ So I'd love for you to recommend books that I should consider or review for my c
 
 ## Please do...
 
-Recommend materials and resources you've used and have opinions about and align with my needs.  I'm OK recieving negative opinions, because my needs might be different or that might help my avoid a time sink.  Third hand reccs ("my friend liked this one") are also fine!
+* Recommend materials and resources you've used, have opinions about, and align with my needs.  
+* Negative opinions are OK! Because my needs might be different or that might help my avoid a time sink.  
+* Third hand reccs ("my friend liked this one") are also fine!
+* Check that it isn't already on my list of things I've looked at.
+* Keep all comments constructive.  Imagine that the author will read these comments and be nice.
 
 ## Please don't...
 
-Please do not link vomit all the results for books with Python in the title on Amazon.  I've been searching for the right book for 2 years now, I've done the searches. 
-
-Please also don't get mad if I consider your recommendation and reject it.  Please watch Brett Cannon's keynote before rage commenting: https://youtu.be/tzFWz5fiVKU?t=49m43s
+* no link vomit all the results for books with Python in the title on Amazon.  I've been searching for the right book for 2 years now, I've done the searches. 
+* don't get mad if I consider your recommendation and reject it.  Please watch Brett Cannon's keynote before rage commenting: https://youtu.be/tzFWz5fiVKU?t=49m43s
+* flame any books/authors or say that something is bad or good without constructive qualification
 
 ## How?
 
@@ -34,10 +38,11 @@ So if you'd like to make a suggestion:
 * thank you! I really appreciate you taking the time to contribute.  ❤️
 * make a new issue
 * give me all the information you can on how I can track the book down (amazon or publisher link is fine)
-* tell me a little of why you are making the recommendation, but please check that your reasons align with my needs.  
+* tell me a little of why you are making the recommendation
 * you can combine multiple resources into one issue if you want
+* check that your language is welcoming and constructive before submission
 
-# Background!
+# Background reading!
 
 ## Considerations 
 
@@ -50,16 +55,16 @@ The voice of instruction in this class is of practical data processing and data 
 ### About the boook:
 
 * be an actual textbook.  Meaning that there are practice problems, quizzes, have a sick ass reference section, and please please a good index.  
-* Books meant purely for reference (like cookbooks) aren't designed well for a course structure.  
-* Just because a book covers variable assignment and if statements doesn't mean it's meant for beginners.
+* be for actual beginners who have never writen or seen a line of code before in any context.  Just because a book covers variable assignment and if statements doesn't mean it's meant for beginners.
+* Books meant purely for reference (like cookbooks) aren't designed well for a university course structure.  
 * This is also a 16 week session and needs to have substantive content for that.
-* Be script first, but platform/software agnostic to the use of command prompt vs scripts.  If a book only shows the use of IDLE it is hell on earth trying to get some people out of that environment.  
-* I'm open to online/OER materials
+* Be script first but platform/software agnostic to the use of command prompt vs scripts.  If a book only shows the use of IDLE it is hell on earth trying to get some people out of that environment.  
+* I'm open to online/OER materials.
 * I'm also open to expensive books, but it must be hella awesome for me to require a $100+ book.
 
 ### About the content I want: 
 
-* Math: as little as possible. Yes this can be done. Yes it is fine. Don't @ me.
+* Math: as little as possible. Yes this can be done. Yes it is fine. Don't `@` me.
 * Strings/text: as much as possible, please!
 * lists/dictionaries:  COLLECT ALL THE THINGS, but please leave the comprehensions at the door
 * OOP: not interested or way later
