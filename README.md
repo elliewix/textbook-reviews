@@ -1,6 +1,11 @@
 # IS452 Textbook reviews
 Repository to track books that I've considered for my IS452 course.
 
+# Where are the things?
+
+* [Books I know about](books-i-know-about.md) is a dumping ground of resources I've already considered.
+* [Reviews](reviews.md) is the collection of books I've looked at and thoughts.
+
 # tl;dr
 
 IS452 is a grad level introduction to programming course with in School of Information Sciences at Illinois.  This is meant for students with zero prior exposure to programming and designed to prepare them to be end user programmers.  
