@@ -16,6 +16,8 @@ I'm always on the lookout for a good intro to python book for my class and I'm t
 
 I'm making this public so I can keep track of what I've seen and be transparent about the process.  I also get asked about books for teaching Python with A LOT, so I'd love to be able to provide this link instead of word vomiting on twitter.
 
+I will be working with a TA during Summer 2018 to review more books, so she and I will be entering in reviews as we go.
+
 # Please help!
 
 I'm making this public so I can keep track of what I've seen and be transparent about the process.  I also get asked about books for teaching Python with A LOT, so I'd love to be able to provide this link instead of word vomiting on twitter.
