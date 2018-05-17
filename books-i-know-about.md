@@ -9,3 +9,6 @@ Sort of a dumping ground for books that I already know about.  Books will be rem
 * "Introduction to Computation and Programming Using Python" (2013) by John Guttag
 * "Problem Solving with Algorithms and Data Structures Using Python" 2nd edition by Miller and Ranum
 * "Pragmatic Programmer" (2000) by Hunt and Thomas
+* "Practical Programming" 3rd Edition by Paul Gries, Jennifer Campbell, Jason Montojo
+
+* there's a ton of O'Reilly and No Starch Press books already on my shelf.
