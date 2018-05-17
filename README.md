@@ -12,6 +12,8 @@ IS452 is a grad level introduction to programming course with in School of Infor
 
 I'm always on the lookout for a good intro to python book for my class and I'm trying to document that search process so I can share my list of resources with other instructors.
 
+My instructional materials for this course are all here: https://github.com/elliewix/IS-452-Spring2018
+
 # Why?
 
 I'm making this public so I can keep track of what I've seen and be transparent about the process.  I also get asked about books for teaching Python with A LOT, so I'd love to be able to provide this link instead of word vomiting on twitter.
@@ -39,6 +41,7 @@ So I'd love for you to recommend books that I should consider or review for my c
 * flame any books/authors or say that something is bad or good without constructive qualification
 * please no "for kids" books
 * ditto on scratch
+* don't tell me this class shouldn't exist of question the pursose or value
 
 ## How?
 
