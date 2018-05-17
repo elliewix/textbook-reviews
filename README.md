@@ -37,6 +37,8 @@ So I'd love for you to recommend books that I should consider or review for my c
 * no link vomit all the results for books with Python in the title on Amazon.  I've been searching for the right book for 2 years now, I've done the searches. 
 * don't get mad if I consider your recommendation and reject it.  Please watch Brett Cannon's keynote before rage commenting: https://youtu.be/tzFWz5fiVKU?t=49m43s
 * flame any books/authors or say that something is bad or good without constructive qualification
+* please no "for kids" books
+* ditto on scratch
 
 ## How?
 
